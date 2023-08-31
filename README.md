@@ -17,10 +17,10 @@ the dataset had 77,536 data points. This was split into training and testing set
 
 ## Analysis Methodology 
 
-# - **Data Preprocessesing:** Importing the neccesary libraries, checked for  inbalanced classes, and divided into training and testing sets. 
-# - **Model Training and Evaluation:**Trained a logistic regression module using the `LogisticRegression` module from `scikit-learn` on the original data to evaluate the performance using various methions like balanced accurac, confusion matrix and classification report
-# - **Oversampling:** Due to class imblance, the `RandomOverSampler` technique to oversample the high-risk -loans in the training data to get better class balance 
-# - **Modele Training and EvaluationL Trained another logistic regression using the oversampleded training data and evaluated the performance as we did with the original data
+ - **Data Preprocessesing:** Importing the neccesary libraries, checked for  inbalanced classes, and divided into training and testing sets. 
+ - **Model Training and Evaluation:**Trained a logistic regression module using the `LogisticRegression` module from `scikit-learn` on the original data to evaluate the performance using various methions like balanced accurac, confusion matrix and classification report
+  - **Oversampling:** Due to class imblance, the `RandomOverSampler` technique to oversample the high-risk -loans in the training data to get better class balance 
+ - **Modele Training and EvaluationL Trained another logistic regression using the oversampleded training data and evaluated the performance as we did with the original data
 
 ### Results 
 
