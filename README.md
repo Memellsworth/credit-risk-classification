@@ -29,4 +29,4 @@ the dataset had 77,536 data points. This was split into training and testing set
 The logistic regression model shows a strong performance in predicting high-risk-loans  with a precision of 0.87, recall of 0.89. Meaning that the model correctly identifies a large amount of high-risk-loands along with minimizing the false positives.  In addition, the model has a strong performance in predicting low-risk loans. 
 
 ## Model Two 
-The logistic regression with the oversampled data shows an even better performance in predicting high risk loans, still with a precision of 0.87, but with a recall of 1.00. While the model does predict a health loan (low-risk loan) at 100% 
+The logistic regression with the oversampled data shows an even better performance in predicting high risk loans, still with a precision of 0.87, but with a recall of 1.00. While the model does predict a health loan (low-risk loan) at 100% s
